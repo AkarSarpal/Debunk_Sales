@@ -1,0 +1,7 @@
+.env
+intel_report.md
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+challenges.pdf
